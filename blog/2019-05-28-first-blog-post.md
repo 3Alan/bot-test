@@ -1,6 +1,6 @@
 ---
 slug: first-blog-post2111123254
-title: First Blog Post1
+title: First Blog Post
 authors:
   name: Gao Wei1331
   title: Docusaurus Core Team12
