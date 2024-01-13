@@ -1,5 +1,5 @@
 ---
-slug: first-blog-post21
+slug: first-blog-post2
 title: First Blog Post
 authors:
   name: Gao Wei1331
