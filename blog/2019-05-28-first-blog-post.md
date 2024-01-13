@@ -4,7 +4,7 @@ title: First Blog Post
 authors:
   name: Gao Wei1331
   title: Docusaurus Core Team
-  url: https://github.com/wgao19
+  url: https://github.com/wgao1
   image_url: https://github.com/wgao19.png
 tags: [hola, docusaurus]
 ---
