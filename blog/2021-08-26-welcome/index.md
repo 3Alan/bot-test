@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Welcome2
+title: Welcome
 authors:
   - slorber
   - yangshun
