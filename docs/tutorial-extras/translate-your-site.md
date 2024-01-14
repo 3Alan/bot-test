@@ -1,14 +1,15 @@
 ---
 sidebar_position: 2
 summary: >-
-  - 文档翻译：将 docs/intro.md 文件复制到 i18n/fr 文件夹中，并翻译内容。
+  1. 将文档翻译成法语，并将其复制到 `i18n/fr` 文件夹中。
 
-  - 启动本地化网站：使用 npm run start -- --locale fr 命令启动本地化网站。
+  2. 在 `docusaurus.config.js` 文件中启用 `fr` 语言支持。
 
-  - 添加语言下拉框：在 docusaurus.config.js 文件中，在 navbar.items 中添加 { type:
-  'localeDropdown', }。
+  3. 在导航栏中添加语言下拉框。
 
-  - 构建本地化网站：使用 npm run build -- --locale fr 命令构建特定语言的网站，或使用 npm run build
+  4. 使用 `npm run start -- --locale fr` 命令启动本地化网站。
+
+  5. 使用 `npm run build -- --locale fr` 命令构建特定语言的网站，或使用 `npm run build`
   命令构建所有语言的网站。
 ---
 

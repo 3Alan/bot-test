@@ -11,7 +11,7 @@ tags:
   - docusaurus
 summary: >-
   这篇文章是作者在 Docusaurus 上的第一篇博客文章。文章主要介绍了 Docusaurus
-  的一些基本知识，例如它是如何工作的，如何使用它，以及它的优势有哪些。作者还分享了一些他使用 Docusaurus 的经验。
+  的基本知识，包括它的工作原理、使用方法以及优势。作者还分享了使用 Docusaurus 的经验。
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
