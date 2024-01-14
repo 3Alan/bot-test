@@ -1,5 +1,10 @@
 ---
 sidebar_position: 1
+summary: |-
+  1. 在 `src/pages` 目录下添加 Markdown 或 React 文件，即可创建一个独立页面。
+  2. Markdown 文件名即为页面 URL；React 文件导出默认函数并通过 `Layout` 组件布局。
+  3. 创建 React 页面时，页面路径为 `http://localhost:3000/页面文件名`；
+  4. 创建 Markdown 页面时，页面路径为 `http://localhost:3000/页面文件名`。
 ---
 
 # Create a Page
