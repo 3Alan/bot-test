@@ -1,5 +1,14 @@
 ---
 sidebar_position: 2
+summary: |-
+  文档是由页面组成的，页面之间可以通过侧边栏、上一个/下一个导航和版本连接起来。
+
+
+  可以创建一个 Markdown 文件 `docs/hello.md`，然后在 `sidebars.js` 中明确创建侧边栏。
+
+  侧边栏可以通过 `sidebar_label` 和 `sidebar_position` 来自定义标签和位置。
+
+  也可以在 `sidebars.js` 中创建侧边栏。
 ---
 
 # Create a Document

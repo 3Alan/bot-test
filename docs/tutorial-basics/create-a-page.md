@@ -1,5 +1,10 @@
 ---
 sidebar_position: 1
+summary: |-
+  1. 在 `src/pages` 中添加 Markdown 或 React 文件，即可创建独立页面。
+  2. 新页面可在 `localhost:3000` 上访问，网址格式为：`/文件名`。
+  3. 创建 React 页面，需要在 `src/pages` 中创建一个 `.js` 文件并导出一个 React 组件。
+  4. 创建 Markdown 页面，需要在 `src/pages` 中创建一个 `.md` 文件，使用 Markdown 语法编写内容。
 ---
 
 # Create a Page

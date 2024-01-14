@@ -1,5 +1,15 @@
 ---
 sidebar_position: 1
+summary: >-
+  1. 下载并安装 Node.js 18.0 或更高版本。
+
+  2. 通过 `npm init docusaurus@latest my-website classic` 命令生成一个新的 Docusaurus
+  站点，该命令会自动将经典模板添加到你的项目中。
+
+  3. 通过 `cd my-website` 和 `npm run start` 命令启动你的站点，该命令会构建你的网站并在本地运行一个开发服务器，以便你在
+  http://localhost:3000/ 查看。
+
+  4. 编辑 `docs/intro.md` 页面，站点会自动重新加载并显示你的更改。
 ---
 
 # Tutorial Intro

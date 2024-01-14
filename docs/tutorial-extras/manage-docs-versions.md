@@ -1,5 +1,10 @@
 ---
 sidebar_position: 1
+summary: |-
+  - Docusaurus 可以管理您的文档的多个版本。
+  - 要创建一个文档版本，可以使用命令 `npm run docusaurus docs:version 1.0`。
+  - 可以通过修改 `docusaurus.config.js` 文件在导航栏中添加一个版本下拉菜单。
+  - 可以通过编辑相应文件夹中的文档来更新现有版本。
 ---
 
 # Manage Docs Versions
