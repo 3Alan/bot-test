@@ -1,5 +1,10 @@
 ---
 sidebar_position: 2
+summary: >-
+  在`docusaurus.config.js`文件中配置 `i18n` 选项，添加对法语的支持。将文档复制到相应的国际化文件夹，然后翻译文档。使用 `npm
+  run start -- --locale fr` 命令启动法语站点。在 `docusaurus.config.js`中添加一个
+  localeDropdown，在导航栏中添加语言选择的下拉框。使用 `npm run build -- --locale fr` 或 `npm run
+  build`来构建站点。
 ---
 
 # Translate your site
