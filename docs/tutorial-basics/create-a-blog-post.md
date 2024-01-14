@@ -1,5 +1,15 @@
 ---
 sidebar_position: 3
+summary: >-
+  1. Docusaurus 为每个博客文章创建一个页面，还创建了博客索引页面、标签系统和 RSS。
+
+  2. 第一步是创建一个文件并输入一些信息，例如标题、作者、标签等。
+
+  3. 将文件保存到“blog”文件夹中，并确保文件名以“.md”结尾。
+
+  4. 然后，您可以在
+  [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings)
+  查看您的新博客文章。
 ---
 
 # Create a Blog Post
