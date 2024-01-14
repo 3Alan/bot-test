@@ -2,7 +2,10 @@
 slug: long-blog-post
 title: Long Blog Post
 authors: endi
-tags: [hello, docusaurus]
+tags:
+  - hello
+  - docusaurus
+summary: '这是关于博客长篇博文的摘要，这篇文章的作者是endi，文章的讨论主题是[hello, docusaurus]。长篇博文会限制博客文章的显示长度。'
 ---
 
 This is the summary of a very long blog post,

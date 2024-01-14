@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+summary: >-
+  一篇Docusaurus文档由多页组成，通过侧边栏、前后导航和版本控制实现页面的互相连接。可通过在`docs`目录下创建Markdown文件创建新的文档。可以通过在文件中添加元数据来自定义侧边栏标签及其位置。也可以通过在`sidebars.js`中定义边栏配置，创建侧边栏。
 ---
 
 # Create a Document

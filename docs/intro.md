@@ -1,5 +1,11 @@
 ---
 sidebar_position: 1
+summary: >-
+  Docusaurus 是一个现代的静态网站生成器，适用于构建快速、可扩展和可搜索的文档网站。它使用 React 和
+  Markdown，并提供了一系列特性，包括主题支持、国际化、搜索、插件和离线支持。你可以通过 `npm init docusaurus@latest
+  my-website classic` 命令生成一个新的 Docusaurus 网站，然后通过 `npm run start`
+  命令启动你的网站。Docusaurus 会自动生成一个开发服务器，你可以在本地轻松查看你的网站，只需编辑 `docs/intro.md`
+  文件，网站就会自动重新加载并显示你的更改。
 ---
 
 # Tutorial Intro
