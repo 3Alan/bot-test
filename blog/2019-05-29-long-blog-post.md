@@ -2,7 +2,17 @@
 slug: long-blog-post
 title: Long Blog Post
 authors: endi
-tags: [hello, docusaurus]
+tags:
+  - hello
+  - docusaurus
+summary: |-
+  这篇很长的博文概要如下。
+
+  佩伦斯克逐渐加元素制造困难度。
+
+  弗斯凯用快艇撞击爱神，因其未来遭受质疑。
+
+  劳伦斯半身不及半。
 ---
 
 This is the summary of a very long blog post,

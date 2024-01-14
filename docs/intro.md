@@ -1,5 +1,11 @@
 ---
 sidebar_position: 1
+summary: >-
+  Docusaurus
+  是一个现代的静态网站生成器，提供了一个简单却强大的文档站点创作体验。只需5分钟即可创建Docusaurus站点。首先创建一个新站点，或者使用
+  docusaurus.new 立即试用 Docusaurus。您需要安装最新版本（18.0 或更高）的 Node.js。然后，使用命令 npm init
+  docusaurus@latest my-website classic 生成一个新的经典模板的 Docusaurus 站点。最后，运行 npm run
+  start 命令启动您的站点，并在 http://localhost:3000/ 处查看。
 ---
 
 # Tutorial Intro

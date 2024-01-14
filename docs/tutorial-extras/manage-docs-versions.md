@@ -1,5 +1,13 @@
 ---
 sidebar_position: 1
+summary: |-
+  - Docusaurus 可以管理您的文档的多个版本。
+  - 创建一个新的文档版本：```npm run docusaurus docs:version 1.0```
+  - 在导航栏中添加一个版本下拉列表，以便在版本之间无缝导航。
+  -可以在各自的文件夹中编辑已发布的文档：
+
+  `versioned_docs/version-1.0/hello.md` 更新 `http://localhost:3000/docs/hello`，
+  `docs/hello.md` 更新 `http://localhost:3000/docs/next/hello`。
 ---
 
 # Manage Docs Versions
