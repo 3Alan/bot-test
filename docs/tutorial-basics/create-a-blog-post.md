@@ -1,5 +1,8 @@
 ---
 sidebar_position: 3
+summary: >-
+  Docusaurus 为每一个博客文章创建一个页面，还包含博客索引页面、标签系统、RSS 源等功能。可以创建一个新的博客文章文件，然后在本地运行
+  Docusaurus 预览博客文章。创建好新文章后，可在 `http://localhost:3000/blog/greetings` 查看文章。
 ---
 
 # Create a Blog Post

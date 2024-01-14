@@ -1,5 +1,10 @@
 ---
 sidebar_position: 2
+summary: |-
+  1. 通过修改 `docusaurus.config.js` 文件，添加对法语的语言支持。
+  2. 在 `i18n` 目录中，创建一个 `fr` 的子目录，并将需要翻译的文件从 `docs` 中复制到 `i18n/fr` 中。
+  3. 在 `i18n/fr` 目录中翻译相应的文件。
+  4. 通过 `npm run start -- --locale fr` 命令，本地运行带有法语的内容。
 ---
 
 # Translate your site

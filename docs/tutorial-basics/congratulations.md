@@ -1,5 +1,15 @@
 ---
 sidebar_position: 6
+summary: |-
+  恭喜！
+
+  你已经学会了Docusaurus的基本用法，并对初始模板做了一些修改。
+
+  Docusaurus还有更多要提供！
+
+  还有五分钟吗？看看版本控制和国际化。
+
+  有任何不清楚或有缺陷的地方请报告！
 ---
 
 # Congratulations!
