@@ -2,7 +2,12 @@
 slug: long-blog-post
 title: Long Blog Post
 authors: endi
-tags: [hello, docusaurus]
+tags:
+  - hello
+  - docusaurus
+summary: >-
+  这篇博客文章很长，它总结了很长的博客文章。 文章主要介绍了Lorem ipsum dolor sit amet。 文章中还提到，Pellentesque
+  elementum dignissim ultricies。
 ---
 
 This is the summary of a very long blog post,
