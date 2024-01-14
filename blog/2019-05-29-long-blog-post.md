@@ -2,7 +2,10 @@
 slug: long-blog-post
 title: Long Blog Post
 authors: endi
-tags: [hello, docusaurus]
+tags:
+  - hello
+  - docusaurus
+summary: 这是一篇很长的博文摘要，它讨论了各种各样的主题。作者首先谈到了他最近的旅行，然后他谈到了他最喜欢的食物。最后，他写了他在工作中学到的一些东西。
 ---
 
 This is the summary of a very long blog post,
