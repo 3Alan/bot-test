@@ -1,5 +1,12 @@
 ---
 sidebar_position: 1
+summary: >-
+  1. Docusaurus是一个开源的文档网站生成器，可帮助您快速、轻松地创建和维护文档网站。
+
+  2. 您可以使用命令行工具`npm init
+  docusaurus`创建一个新的Docusaurus网站，也可以使用在线工具[docusaurus.new](https://docusaurus.new)创建一个新的Docusaurus网站。
+
+  3. 运行命令`npm run start`启动开发服务器，然后即可在浏览器中访问您的网站。
 ---
 
 # Tutorial Intro
