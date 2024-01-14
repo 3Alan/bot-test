@@ -1,5 +1,9 @@
 ---
 sidebar_position: 5
+summary: >-
+  Docusaurus 是一款静态网站生成器，它将你的网站构建为简单的静态 HTML、JavaScript和 CSS 文件。你可以使用 `npm run
+  build` 来构建你的网站，然后使用 `npm run serve` 在本地测试你的网站。你可以将 `build`
+  文件夹部署到任何地方，几乎免费或非常低的成本。
 ---
 
 # Deploy your site

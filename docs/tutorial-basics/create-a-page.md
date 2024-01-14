@@ -1,5 +1,14 @@
 ---
 sidebar_position: 1
+summary: >-
+  1. 可以在 `src/pages` 目录下创建 Markdown 或 React 文件来创建独立页面。
+
+  2. Markdown 文件名与页面 URL 路径一一对应，例如 `src/pages/foo.md` 对应 `localhost:3000/foo`。
+
+  3. React 文件名与页面 URL 路径也一一对应，例如 `src/pages/foo/bar.js` 对应
+  `localhost:3000/foo/bar`。
+
+  4. 创建 Markdown 或 React 页面后，需要在本地运行项目才能访问这些页面。
 ---
 
 # Create a Page

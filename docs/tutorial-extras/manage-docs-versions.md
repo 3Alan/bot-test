@@ -1,5 +1,12 @@
 ---
 sidebar_position: 1
+summary: >-
+  1. 使用 `npm run docusaurus docs:version <版本号>` 命令发布新版本。
+
+  2. 在 `docusaurus.config.js` 中添加 `type: 'docsVersionDropdown'` 来添加版本下拉菜单。
+
+  3. 可以直接编辑对应版本的文档，在 `versioned_docs/version-<版本号>` 目录下编辑已发布版本，在 `docs`
+  目录下编辑即将发布的版本。
 ---
 
 # Manage Docs Versions
