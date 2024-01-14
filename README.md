@@ -1,6 +1,6 @@
 # Website
 
-Th1s website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Th1s wesite is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
