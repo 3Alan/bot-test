@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 summary: >-
-  1. 将 Markdown 或 React 文件添加到 `src/pages` 以创建独立页面。
+  1. 在 `src/pages` 目录下添加 Markdown 或 React 文件，即可创建独立页面。
 
   2. 页面路径与文件名相对应，例如 `src/pages/foo.md` 对应页面 `localhost:3000/foo`。
 
@@ -9,6 +9,8 @@ summary: >-
   Markdown 语法编写。
 
   4. 创建新页面后，需要运行 `npm start` 或 `yarn start` 来启动开发服务器，然后才能在浏览器中访问新页面。
+
+  5. 新页面将在 `localhost:3000` 下可用。
 ---
 
 # Create a Page
