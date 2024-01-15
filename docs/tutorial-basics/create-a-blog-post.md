@@ -1,8 +1,9 @@
 ---
 sidebar_position: 3
 summary: >-
-  Docusaurus 为每个博客文章创建一个页面，还创建博客索引页面、标签系统、RSS 提要等。只需创建一个 markdown
-  文件，就可以创建一篇新的博客文章。新博客文章将在本地服务器上可用。
+  Docusaurus 会为每篇博客文章创建一个页面，还会创建博客索引页面、标签系统、RSS 提要等。只需创建一个 Markdown
+  文件，就可以创建一篇新的博客文章。文章在本地服务器上创建完成后，可以通过访问 `http://localhost:3000/blog/greetings`
+  进行查看。
 ---
 
 # Create a Blog Post
