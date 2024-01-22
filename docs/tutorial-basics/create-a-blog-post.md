@@ -10,7 +10,7 @@ summary: >-
 
 Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
-## Create your first Post
+## Create your first Post1
 
 Create a file at `blog/2021-02-28-greetings.md`:
 
